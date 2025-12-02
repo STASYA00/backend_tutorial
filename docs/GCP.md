@@ -1,6 +1,6 @@
 # GCP - Cloud Functions
 
-This document explains how to create a project on [GCP](https://console.cloud.google.com/) and where to find products to deploy your backend ([Cloud Run](https://cloud.google.com/free/docs/free-cloud-features#cloud-run) and [Cloud Functions](https://cloud.google.com/free/docs/free-cloud-features#cloud-functions))
+This document explains how to create a project on [GCP](https://console.cloud.google.com/) and where to find products to deploy your backend ([Cloud Run](https://cloud.google.com/free/docs/free-cloud-features#cloud-run) and/or [Cloud Functions](https://cloud.google.com/free/docs/free-cloud-features#cloud-functions))
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -57,8 +57,7 @@ For [Cloud Functions](https://cloud.google.com/free/docs/free-cloud-features#clo
 ## Deployment
 
 You can deploy your server directly from visual code:
-* [Cloud Run](./deploy-cloud-run.md) - for several endpoints
-* [Cloud Functions](./deploy-cloud-functions.md) - for a single endpoint
+* [Cloud Functions](./deploy-cloud-functions.md)
 
 _Note:_ for testing purposes you can leave unauthenticated invocations (can be called by anyone), but it is **recommended** to use authentication for protection. Make sure you control [your spending](https://console.cloud.google.com/billing/) and delete the unused resources.
 

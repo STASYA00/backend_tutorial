@@ -24,8 +24,7 @@
 - [License](#license)
 
 
-![quick video](./assets/deploy_server.gif)
-
+[![Watch the video](https://img.youtube.com/vi/msXjNLDgkYM/0.jpg)](https://www.youtube.com/watch?v=msXjNLDgkYM&list=PL30XbgdrzGDQCRn2p6sSoTQLoyojgQ8AQ&index=2)
 
 ## About
 
