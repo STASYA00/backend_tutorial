@@ -24,6 +24,8 @@
 - [License](#license)
 
 
+![quick video](./assets/deploy_server.gif)
+
 
 ## About
 
